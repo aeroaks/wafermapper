@@ -1,0 +1,3 @@
+0.0.1
+ - Wafer with different sized cells
+ - colouring of individual cells
